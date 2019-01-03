@@ -1,5 +1,15 @@
 # ESP32-ESP8266-File-Download-Upload-Delete-Stream-and-Directory
 
+SPIFFS Version
+Copy sketch to a folder, including CSS.
+
+SD-Card Version
+Copy Sketch to a folder, including CSS and Network and Sys_Variables files all to same directory.
+
+For all versions adjust your netwrok credentials accordingly.
+
+~~
+
 ESP (32/8266) File Services in one application, enables management of files on an ESP using SD-Filing System
 
 Using HTTP and an HTML interface to download files from an ESP32/ESP8266
