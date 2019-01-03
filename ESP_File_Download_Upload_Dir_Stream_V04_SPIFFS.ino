@@ -33,8 +33,8 @@
 String  webpage = "";
 bool    SPIFFS_present = false;
 
-const char ssid[]     = "SKYAE43F";
-const char password[] = "QDMSWSFMQL";
+const char ssid[]     = "your SSID";
+const char password[] = "your PASSWORD";
 
 #include "FS.h"
 #include "CSS.h"
